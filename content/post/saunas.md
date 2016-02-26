@@ -11,6 +11,6 @@ share = true
 draft = false
 +++
 
-This piece is about Baloo expressing sexual insecurity in a sauna surrounded by several of Baloonies.
+This piece is about Baloo expressing sexual insecurity in a sauna surrounded by several Baloonies.
 
 ![Baloo in Sauna](/images/baloo-sauna.jpg)
