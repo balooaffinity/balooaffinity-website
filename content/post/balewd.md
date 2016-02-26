@@ -11,6 +11,6 @@ share = false
 draft = false
 +++
 
-My favorite piece of _balewd_ Rule 34
+My favorite piece of _balewd_ Rule 34!
 
 ![Balewd](/images/balewd.jpg)
