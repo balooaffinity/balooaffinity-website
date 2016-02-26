@@ -6,8 +6,8 @@ image = "images/baloo-sauna-banner.jpg"
 tags = ["baloo", "sauna", "sexuality"]
 title = "Sauna Sexuality"
 
-comments = true
-share = true
+comments = false
+share = false
 draft = false
 +++
 
