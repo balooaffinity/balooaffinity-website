@@ -1,0 +1,19 @@
+Title = "Baloo Affinity"
+BaseUrl = "http://balooaffinity.net/"
+LanguageCode = "en-gb"
+Paginate = 5
+Copyright = "All rights reserved - 2015"
+Canonifyurls = true
+Theme = "casper"
+
+[params]
+  description = "Baloo Affinity, the internet's largest online Baloo art community."
+  cover = "images/baloo-banner-2.jpg"
+  hideHUGOSupport = true
+  googleAnalyticsUserID = ""
+
+[[menu.main]]
+  name = "Home"
+  weight = -120
+  identifier = "home"
+  url = "/"
